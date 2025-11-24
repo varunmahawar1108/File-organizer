@@ -62,6 +62,6 @@ This small project helped me a lot in understanding Python’s file handling and
 
 ## 🙌 Credits
 
-**Created by Vikrant Singh Chauhan**
+**Created by Varun mahawar**
 For internship project submission.
 All code and testing done individually.
